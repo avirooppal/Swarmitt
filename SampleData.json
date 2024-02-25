@@ -1,0 +1,128 @@
+[
+    {
+        "thumb": 3,
+        "index": 45,
+        "middle": 7,
+        "ring": 8,
+        "pinky": 2,
+        "angle": 90,
+        "label": "Thumbs Up"
+    },
+    {
+        "thumb": 6,
+        "index": 96,
+        "middle": 6,
+        "ring": 4,
+        "pinky": 2,
+        "angle": 73,
+        "label": "Index Finger Pointing"
+    },
+    {
+        "thumb": 5,
+        "index": 89,
+        "middle": 4,
+        "ring": 6,
+        "pinky": 1,
+        "angle": 60,
+        "label": "V Shape"
+    },
+    {
+        "thumb": 2,
+        "index": 73,
+        "middle": 8,
+        "ring": 5,
+        "pinky": 3,
+        "angle": 120,
+        "label": "Index Finger Pointing"
+    },
+    {
+        "thumb": 7,
+        "index": 52,
+        "middle": 5,
+        "ring": 3,
+        "pinky": 2,
+        "angle": 45,
+        "label": "Thumbs Up"
+    },
+    {
+        "thumb": 8,
+        "index": 78,
+        "middle": 3,
+        "ring": 6,
+        "pinky": 1,
+        "angle": 100,
+        "label": "V Shape"
+    },
+    {
+        "thumb": 4,
+        "index": 64,
+        "middle": 5,
+        "ring": 7,
+        "pinky": 2,
+        "angle": 80,
+        "label": "Index Finger Pointing"
+    },
+    {
+        "thumb": 6,
+        "index": 40,
+        "middle": 6,
+        "ring": 4,
+        "pinky": 3,
+        "angle": 30,
+        "label": "Thumbs Up"
+    },
+    {
+        "thumb": 5,
+        "index": 55,
+        "middle": 4,
+        "ring": 5,
+        "pinky": 3,
+        "angle": 150,
+        "label": "V Shape"
+    },
+    {
+        "thumb": 7,
+        "index": 82,
+        "middle": 7,
+        "ring": 6,
+        "pinky": 2,
+        "angle": 110,
+        "label": "Index Finger Pointing"
+    },
+    {
+        "thumb": 3,
+        "index": 36,
+        "middle": 5,
+        "ring": 8,
+        "pinky": 4,
+        "angle": 75,
+        "label": "Thumbs Up"
+    },
+    {
+        "thumb": 6,
+        "index": 47,
+        "middle": 6,
+        "ring": 5,
+        "pinky": 2,
+        "angle": 55,
+        "label": "V Shape"
+    },
+    {
+        "thumb": 4,
+        "index": 68,
+        "middle": 5,
+        "ring": 4,
+        "pinky": 3,
+        "angle": 130,
+        "label": "Index Finger Pointing"
+    },
+    {
+        "thumb": 8,
+        "index": 79,
+        "middle": 4,
+        "ring": 6,
+        "pinky": 2,
+        "angle": 65,
+        "label": "Thumbs Up"
+    }
+]
